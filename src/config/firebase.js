@@ -12,12 +12,12 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCT_2KGkXwERzgfsB10yOzp5Qg-NlbpyFk",
+  apiKey: "api-key",
   authDomain: "bestbuy1-adb18.firebaseapp.com",
   projectId: "bestbuy1-adb18",
   storageBucket: "bestbuy1-adb18.appspot.com",
   messagingSenderId: "152051881154",
-  appId: "1:152051881154:web:6a2398c8312560cada975b",
+  appId: "api-id",
   measurementId: "G-NLN3KBDHVY"
 };
 
